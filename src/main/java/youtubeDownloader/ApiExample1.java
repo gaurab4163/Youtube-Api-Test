@@ -36,7 +36,7 @@ import org.json.JSONObject;
 public class ApiExample1 {
     // You need to set this value for your code to compile.
     // For example: ... DEVELOPER_KEY = "YOUR ACTUAL KEY";
-    private static final String DEVELOPER_KEY = "AIzaSyC7JSIzGDAFQzp7LB7od4iuO08ZFU1mdTU";
+    private static final String DEVELOPER_KEY = "";
 
     private static final String APPLICATION_NAME = "API code samples";
     private static final JsonFactory JSON_FACTORY = JacksonFactory.getDefaultInstance();
